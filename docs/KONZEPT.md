@@ -333,6 +333,8 @@ Bestätigung „Gespeichert“.
   sich nicht mehr, und der Link öffnet (im Firefox-Test T36 vom Nutzer akzeptiert).
 - Mit eingeschaltetem Hinweis fehlt beim Ziehen von Links und Bildern das Zieh-Bild des
   Browsers – auch beim Ziehen in die Lesezeichenleiste oder andere Programme.
+- Grafiken mit `pointer-events: none` in einem Link (z. B. das YouTube-Logo) sieht HSLinkDrag nicht:
+  Der Link öffnet normal, mit SHIFT lässt sich die Grafik aber nicht öffnen. Vom Nutzer so belassen.
 - `drop` außerhalb des Browserfensters wird nicht ausgewertet.
 - Von der Seite in einen eingebetteten Frame hineinziehen öffnet nichts.
 - Verlinkte Bilder/SVGs und alles in Frames können bei aktiver Erweiterung nicht nativ in andere Programme
@@ -393,6 +395,7 @@ Alle Fragen am 2026-11-03 wie vorgeschlagen entschieden. Aktuell keine offenen F
 | 2026-11-05 | Marquee-Bild 1400 × 560 de/en erstellt (`store/scenes/marquee.html`, `scripts/store-images.sh`) als Vorbereitung für einen späteren Antrag auf das „Empfohlen“-Abzeichen. Antrag erst mit etwas mehr Nutzern und Bewertungen. |
 | 2026-11-05 | Marquee-Bild englisch im Chrome Web Store hinterlegt (es gibt nur eines für alle Sprachen), erneute Prüfung des Eintrags eingereicht. |
 | 2026-11-07 | Firefox-Version 1.0.4 auf addons.mozilla.org veröffentlicht; beide Browser sind in den Stores auf demselben Stand. |
+| 2026-11-07 | Grafik mit `pointer-events: none` im Link (YouTube-Logo): SHIFT öffnet sie nicht. Eine Lösung per Suche an der Mausposition wäre möglich; der Nutzer lässt es bewusst so und nimmt dafür keine Version 1.0.5 samt neuer Store-Prüfungen in Kauf. |
 
 ## 10. Umsetzungsplan (Schritte 1–8 für Version 1.0.0 erledigt)
 
