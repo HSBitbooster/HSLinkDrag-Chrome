@@ -5,7 +5,7 @@ neuen Tab öffnen. Die Zugrichtung (links/rechts) bestimmt, ob der Tab im Vorder
 Hintergrund geöffnet wird.
 
 Firefox-Version mit gleicher Versionsnummer und gleichem Funktionsstand:
-[HSLinkDrag-Firefox](https://github.com/HSBitbooster/HSLinkDrag-Firefox).
+[HSLinkDrag-Firefox](https://github.com/HSBitbooster/HSLinkDrag-Firefox), Installation über [addons.mozilla.org](https://addons.mozilla.org/de/firefox/addon/hslinkdrag/).
 
 ## Installation
 

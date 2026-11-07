@@ -6,7 +6,7 @@
 | **Stand** | 2026-11-04 |
 | **Name** | HSLinkDrag |
 | **Store-ID** | `pilepemcdicgnpdbilcoiieediljfkne` |
-| **Plattform** | Google Chrome, aktuelle Version (Manifest V3). Entwicklung unter Linux. Schwesterprojekt für Firefox: `../../FIREFOX_AddOns/HSLinkDrag` (github.com/HSBitbooster/HSLinkDrag-Firefox) |
+| **Plattform** | Google Chrome, aktuelle Version (Manifest V3). Entwicklung unter Linux. Schwesterprojekt für Firefox: `../../FIREFOX_AddOns/HSLinkDrag` (github.com/HSBitbooster/HSLinkDrag-Firefox, [addons.mozilla.org](https://addons.mozilla.org/firefox/addon/hslinkdrag/)) |
 | **Versionen** | Chrome- und Firefox-Version haben **immer dieselbe Versionsnummer und denselben Funktionsstand** (Abschnitt 11) |
 | **Logo** | `icons/logo-original.png` (295 × 295 px, vom Nutzer geliefert) – daraus werden die Icon-Größen 16/32/48/128 erzeugt |
 
@@ -392,6 +392,7 @@ Alle Fragen am 2026-11-03 wie vorgeschlagen entschieden. Aktuell keine offenen F
 | 2026-11-05 | Version 1.0.4 im Chrome Web Store veröffentlicht, auf der öffentlichen Store-Seite geprüft. Öffentliche Kontaktadresse ist jetzt `hslinkdrag@web.de`. |
 | 2026-11-05 | Marquee-Bild 1400 × 560 de/en erstellt (`store/scenes/marquee.html`, `scripts/store-images.sh`) als Vorbereitung für einen späteren Antrag auf das „Empfohlen“-Abzeichen. Antrag erst mit etwas mehr Nutzern und Bewertungen. |
 | 2026-11-05 | Marquee-Bild englisch im Chrome Web Store hinterlegt (es gibt nur eines für alle Sprachen), erneute Prüfung des Eintrags eingereicht. |
+| 2026-11-07 | Firefox-Version 1.0.4 auf addons.mozilla.org veröffentlicht; beide Browser sind in den Stores auf demselben Stand. |
 
 ## 10. Umsetzungsplan (Schritte 1–8 für Version 1.0.0 erledigt)
 
